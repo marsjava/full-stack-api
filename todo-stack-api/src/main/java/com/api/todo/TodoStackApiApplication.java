@@ -6,6 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TodoStackApiApplication {
 	public static void main(String[] args) {
-	    SpringApplication.run(TodoStackApiApplication.class, args);
+		SpringApplication.run(TodoStackApiApplication.class, args);
 	}
 }
